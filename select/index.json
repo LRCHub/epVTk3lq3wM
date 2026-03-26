@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "オムライスとLoveの定義",
+  "base_artist": "トール (CV.桑原由気)",
+  "createdAt": "2026-03-26T07:40:06.881713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オムライスとLoveの定義",
+      "artist": "トール (CV.桑原由気)",
+      "has_synced": true,
+      "path": "select/01_オムライスとLoveの定義_トール_(CV.桑原由気).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オムライスとLoveの定義",
+      "artist": "桑原由気",
+      "has_synced": true,
+      "path": "select/02_オムライスとLoveの定義_桑原由気.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オムライスとLoveの定義",
+      "artist": "トール(CV․桑原由気)",
+      "has_synced": true,
+      "path": "select/03_オムライスとLoveの定義_トール(CV.桑原由気).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オムライスとLoveの定義",
+      "artist": "トール(桑原由気)",
+      "has_synced": false,
+      "path": "select/pl_01_オムライスとLoveの定義_トール(桑原由気).txt"
+    }
+  ]
+}
